@@ -1,0 +1,32 @@
+Voies:
+
+- Chaque prise est un agent et possède un type (jug, grimp, sloper, pinch, mono et jib) 
+- Bonus : auto création de vois aléatoires
+- Data : reproduction de voies existantes avec du chargement de data
+- Chaque prise possède un niveau de qualité d'accroche (de 1 à 5, 1 étant très lisse et 5 étant très rugueux)
+- Prise en compte du support pour le devers
+- Le but des prises est de se répartir de la bonne manière entre le début de la voie et son sommet dans le mode alétoire
+- Le type sommet constitue un booleen sur l'agent prise, et est la prise la plus haute.
+
+
+Grimpeurs:
+
+- Deux mains, deux pieds et un centre de gravité soit 5 agents au total
+- Les mains et le pieds ne peuvent pas dépaser une certaine distance du centre de gravité
+- NB: essayer une version ou les pieds ne peuvent pas passer au dessus du centre de gravité si cochon pendu H24
+- Chaque agent possède un niveau de force et d'endurance (de 1 à 5, 1 étant très faible et 5 étant très fort)
+- Quand un agent est sur une prise, il envoie un signal aux autres pour sginaler qu'il est verouillé
+- Le but pour un grimpeur est d'atteindre l'agent prise sommet
+- Le centre de gravité tire les 4 autres agents vers lui et vers le bas, simulant la gravité et la tension musculaire
+- Un calcul entre le niveau de la prise et de l'agent grimpeur détermine si le grimpeur peut tenir la prise ou non
+- Le centre de gravité correspond également à la variable paramètre poids
+- La répartition du poids est prise en compte pour le calcul de la force exercée sur les prises par les agents grimpeurs
+
+Paramètres de la simulation:
+
+- Poids du grimpeur
+- Distance entre centre de gravité et mains/pieds
+- Niveau de force et d'endurance des agents grimpeurs
+- En mode aléatoire, cotation de la voie (1 à 9, en suivant la cotation abcde la FFME)
+- En mode aléatoire, type de voie (bloc, voie, falaise, etc.)
+- 
