@@ -27,6 +27,8 @@ Paramètres de la simulation:
 - Poids du grimpeur
 - Distance entre centre de gravité et mains/pieds
 - Niveau de force et d'endurance des agents grimpeurs
+- Toggle voie aléatoire / voie existante
 - En mode aléatoire, cotation de la voie (1 à 9, en suivant la cotation abcde la FFME)
 - En mode aléatoire, type de voie (bloc, voie, falaise, etc.)
-- 
+- En mode aléatoire, hauteur de la voie (en mètres)
+
