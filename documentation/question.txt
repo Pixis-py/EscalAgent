@@ -1,0 +1,56 @@
+• Quelle est votre question ? (mesurable : quel indicateur, quelle échelle ?)
+    Quels sont les paramètres qui influencent le plus la réussite d'un grimpeur (génétique VS technique) ?
+
+
+• Quels acteurs / objets sont des agents ? Quel environnement ? Quels comportements et
+paramètres ?
+    Agents prises : type (jug, crimp, sloper, pinch, mono, jib), qualité d’accroche de 1 à 5, booléen « sommet », support du dévers.
+    
+    Agents grimpeur (5) : 2 mains, 2 pieds et 1 centre de gravité (CdG) = poids. Force et endurance de 1 à 5.
+    
+    Comportements :
+        - Les mains et les pieds restent dans une distance maximale du CdG.
+        - Le CdG tire les 4 autres agents vers lui et vers le bas.
+        - Un agent verrouillé sur une prise envoie un signal aux autres.
+        - Un calcul niveau de prise / niveau de l’agent détermine s’il tient.
+        - La répartition du poids détermine la force exercée sur les prises.
+        
+    Paramètres :
+        - Poids du grimpeur
+        - Distance entre centre de gravité et mains/pieds
+        - Niveau de force et d'endurance des agents grimpeurs
+        - Toggle voie aléatoire / voie existante
+        - En mode aléatoire, cotation de la voie (1 à 9, en suivant la cotation abcde la FFME)
+        - En mode aléatoire, type de voie (bloc, voie, falaise, etc.)
+        - En mode aléatoire, hauteur de la voie (en mètres)
+        
+
+• Quelles sont vos données ? Une fiche descriptive par jeu de données (cf. annexe) : source,
+licence, format, résolution, rôle.
+    Recherches en cours: numérisation du mur d'escalade de la faculté du Mans, recherche de sites / BDD répertoriant des voies connus comme El Capitan.
+
+• Que fait chaque donnée : initialiser, paramétrer, calibrer, valider ?
+    Les voies existantes serviraient à l’initialisation (placer les prises) or mode aléatoire.
+    Paramètres de l'hypotèse :
+        poids / distance centre de gravité VS niveau force et endurance (génétique VS technique)
+        
+
+• Quelle unité pour 1 patch et 1 tick ?
+    1 patch 10 ou 50cm (à ajuster)
+    1 tick 1sec (à ajuster)
+    
+
+• Quels indicateurs de sortie et quelle comparaison avec la réalité ? Quel critère de réussite ?
+    - Hauteur max atteinte
+    - Niveau de fatigue global
+    - Critère de réussite (atteindre le sommet)
+
+
+• Quel plan d’expériences (paramètres, répétitions) ? Combien de simulations ?
+    Voir les variations du taux de réussite en fonction du rapport génétique / talent.
+    -> On espère essayer le plus grand nombre de configuration possible pour opposer la génétique d'un grimpeur à son expérience.
+
+
+• Quelles hypothèses et quelles limites prévoyez-vous ?
+    Non prise en compte de l'orientation des prise.
+    Cision du grimpeur comme 5 éléments indépendantS.
