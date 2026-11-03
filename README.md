@@ -1,4 +1,4 @@
-# EscalAgant: NetLogo Climbing Simulation #
+# EscalAgent: NetLogo Climbing Simulation #
 
 ## Introduction :  ##
 
