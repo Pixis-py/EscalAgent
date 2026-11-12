@@ -1,0 +1,23 @@
+## Mac files
+.DS_Store
+
+## Windows files
+Thumbs.db  
+
+## IDE
+.vscode/
+.idea
+
+## environment files
+.env
+
+## Python
+*.pyc
+__pycache__/
+
+## Jupyter Notebook
+.ipynb_checkpoints
+
+## Logs
+*.log
+
