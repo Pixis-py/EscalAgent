@@ -108,7 +108,9 @@ to creer-voie
         setxy item 0 pos item 1 pos
         initialiser-prise n
         set nouvelle self
-        create-parcours-with precedente [ set color gray - 2 ]
+        ;; create-parcours-with attend un set mais recoit un agent
+        let precedente-groupe (turtle-set precedente)
+        create-parcours-with precedente-groupe [ set color gray - 2 ]
       ]
       set precedente nouvelle
       set n n + 1
