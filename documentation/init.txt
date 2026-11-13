@@ -32,3 +32,13 @@ Paramètres de la simulation:
 - En mode aléatoire, type de voie (bloc, voie, falaise, etc.)
 - En mode aléatoire, hauteur de la voie (en mètres)
 
+Cotation du mur LMU:
+
+Jaune = 3A
+Orange = 4A
+Vert = 5A
+Bleu = 6A
+Rouge = 7A
+Noir = 8A
+Violet = 9A
+Blanc = 9C
