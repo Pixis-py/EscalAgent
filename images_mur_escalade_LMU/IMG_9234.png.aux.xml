@@ -1,0 +1,132 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="XML_com.adobe.xmp">&lt;x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0"&gt;
+   &lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+      &lt;rdf:Description rdf:about=""
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+            xmlns:exifEX="http://cipa.jp/exif/1.0/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"&gt;
+         &lt;exif:CompositeImage&gt;2&lt;/exif:CompositeImage&gt;
+         &lt;exif:WhiteBalance&gt;0&lt;/exif:WhiteBalance&gt;
+         &lt;exif:ExposureMode&gt;0&lt;/exif:ExposureMode&gt;
+         &lt;exif:PixelYDimension&gt;3024&lt;/exif:PixelYDimension&gt;
+         &lt;exif:ISOSpeedRatings&gt;
+            &lt;rdf:Seq&gt;
+               &lt;rdf:li&gt;160&lt;/rdf:li&gt;
+            &lt;/rdf:Seq&gt;
+         &lt;/exif:ISOSpeedRatings&gt;
+         &lt;exif:GPSLatitude&gt;48,1.027N&lt;/exif:GPSLatitude&gt;
+         &lt;exif:GPSLongitude&gt;0,10.0733E&lt;/exif:GPSLongitude&gt;
+         &lt;exif:ColorSpace&gt;65535&lt;/exif:ColorSpace&gt;
+         &lt;exif:GPSTimeStamp&gt;2026-11-10T18:00:28&lt;/exif:GPSTimeStamp&gt;
+         &lt;exif:GPSImgDirection&gt;101205/4913&lt;/exif:GPSImgDirection&gt;
+         &lt;exif:GPSDestBearingRef&gt;T&lt;/exif:GPSDestBearingRef&gt;
+         &lt;exif:ApertureValue&gt;126503/50079&lt;/exif:ApertureValue&gt;
+         &lt;exif:GPSAltitudeRef&gt;0&lt;/exif:GPSAltitudeRef&gt;
+         &lt;exif:SubsecTimeOriginal&gt;941&lt;/exif:SubsecTimeOriginal&gt;
+         &lt;exif:GPSImgDirectionRef&gt;T&lt;/exif:GPSImgDirectionRef&gt;
+         &lt;exif:ExposureTime&gt;1/122&lt;/exif:ExposureTime&gt;
+         &lt;exif:GPSLongitudeRef&gt;E&lt;/exif:GPSLongitudeRef&gt;
+         &lt;exif:BrightnessValue&gt;59249/14573&lt;/exif:BrightnessValue&gt;
+         &lt;exif:FocalLength&gt;77/50&lt;/exif:FocalLength&gt;
+         &lt;exif:GPSDestBearing&gt;101205/4913&lt;/exif:GPSDestBearing&gt;
+         &lt;exif:SubjectArea&gt;
+            &lt;rdf:Seq&gt;
+               &lt;rdf:li&gt;2020&lt;/rdf:li&gt;
+               &lt;rdf:li&gt;1511&lt;/rdf:li&gt;
+               &lt;rdf:li&gt;2217&lt;/rdf:li&gt;
+               &lt;rdf:li&gt;1391&lt;/rdf:li&gt;
+            &lt;/rdf:Seq&gt;
+         &lt;/exif:SubjectArea&gt;
+         &lt;exif:OffsetTime&gt;+01:00&lt;/exif:OffsetTime&gt;
+         &lt;exif:DigitalZoomRatio&gt;1512/1481&lt;/exif:DigitalZoomRatio&gt;
+         &lt;exif:ShutterSpeedValue&gt;328711/47450&lt;/exif:ShutterSpeedValue&gt;
+         &lt;exif:SubsecTimeDigitized&gt;941&lt;/exif:SubsecTimeDigitized&gt;
+         &lt;exif:GPSLatitudeRef&gt;N&lt;/exif:GPSLatitudeRef&gt;
+         &lt;exif:FNumber&gt;12/5&lt;/exif:FNumber&gt;
+         &lt;exif:ExposureProgram&gt;2&lt;/exif:ExposureProgram&gt;
+         &lt;exif:GPSSpeed&gt;5039/24884&lt;/exif:GPSSpeed&gt;
+         &lt;exif:SensingMethod&gt;2&lt;/exif:SensingMethod&gt;
+         &lt;exif:OffsetTimeDigitized&gt;+01:00&lt;/exif:OffsetTimeDigitized&gt;
+         &lt;exif:MeteringMode&gt;5&lt;/exif:MeteringMode&gt;
+         &lt;exif:GPSAltitude&gt;485001/6010&lt;/exif:GPSAltitude&gt;
+         &lt;exif:SceneType&gt;1&lt;/exif:SceneType&gt;
+         &lt;exif:Flash rdf:parseType="Resource"&gt;
+            &lt;exif:Function&gt;False&lt;/exif:Function&gt;
+            &lt;exif:Fired&gt;False&lt;/exif:Fired&gt;
+            &lt;exif:Return&gt;0&lt;/exif:Return&gt;
+            &lt;exif:Mode&gt;2&lt;/exif:Mode&gt;
+            &lt;exif:RedEyeMode&gt;False&lt;/exif:RedEyeMode&gt;
+         &lt;/exif:Flash&gt;
+         &lt;exif:OffsetTimeOriginal&gt;+01:00&lt;/exif:OffsetTimeOriginal&gt;
+         &lt;exif:GPSHPositioningError&gt;124479/4967&lt;/exif:GPSHPositioningError&gt;
+         &lt;exif:GPSSpeedRef&gt;K&lt;/exif:GPSSpeedRef&gt;
+         &lt;exif:ExposureBiasValue&gt;0&lt;/exif:ExposureBiasValue&gt;
+         &lt;exif:PixelXDimension&gt;4032&lt;/exif:PixelXDimension&gt;
+         &lt;exif:FocalLenIn35mmFilm&gt;13&lt;/exif:FocalLenIn35mmFilm&gt;
+         &lt;exif:ExifVersion&gt;0232&lt;/exif:ExifVersion&gt;
+         &lt;xmp:ModifyDate&gt;2026-11-10T19:00:29&lt;/xmp:ModifyDate&gt;
+         &lt;xmp:CreateDate&gt;2026-11-10T19:00:29&lt;/xmp:CreateDate&gt;
+         &lt;xmp:CreatorTool&gt;26.6.1&lt;/xmp:CreatorTool&gt;
+         &lt;tiff:Orientation&gt;6&lt;/tiff:Orientation&gt;
+         &lt;tiff:XResolution&gt;72&lt;/tiff:XResolution&gt;
+         &lt;tiff:HostComputer&gt;iPhone 11&lt;/tiff:HostComputer&gt;
+         &lt;tiff:ResolutionUnit&gt;2&lt;/tiff:ResolutionUnit&gt;
+         &lt;tiff:YResolution&gt;72&lt;/tiff:YResolution&gt;
+         &lt;tiff:Make&gt;Apple&lt;/tiff:Make&gt;
+         &lt;tiff:TileLength&gt;512&lt;/tiff:TileLength&gt;
+         &lt;tiff:TileWidth&gt;512&lt;/tiff:TileWidth&gt;
+         &lt;tiff:Model&gt;iPhone 11&lt;/tiff:Model&gt;
+         &lt;exifEX:PhotographicSensitivity&gt;160&lt;/exifEX:PhotographicSensitivity&gt;
+         &lt;exifEX:LensMake&gt;Apple&lt;/exifEX:LensMake&gt;
+         &lt;exifEX:LensModel&gt;iPhone 11 back dual wide camera 1.54mm f/2.4&lt;/exifEX:LensModel&gt;
+         &lt;exifEX:LensSpecification&gt;
+            &lt;rdf:Seq&gt;
+               &lt;rdf:li&gt;807365/524263&lt;/rdf:li&gt;
+               &lt;rdf:li&gt;17/4&lt;/rdf:li&gt;
+               &lt;rdf:li&gt;9/5&lt;/rdf:li&gt;
+               &lt;rdf:li&gt;12/5&lt;/rdf:li&gt;
+            &lt;/rdf:Seq&gt;
+         &lt;/exifEX:LensSpecification&gt;
+         &lt;photoshop:DateCreated&gt;2026-11-10T19:00:29&lt;/photoshop:DateCreated&gt;
+      &lt;/rdf:Description&gt;
+   &lt;/rdf:RDF&gt;
+&lt;/x:xmpmeta&gt;
+</MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">147.62154106434</MDI>
+      <MDI key="STATISTICS_STDDEV">66.369345255731</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">139.92509920635</MDI>
+      <MDI key="STATISTICS_STDDEV">61.467163167073</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">133.3885345805</MDI>
+      <MDI key="STATISTICS_STDDEV">48.798548446562</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
